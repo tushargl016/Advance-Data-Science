@@ -206,7 +206,7 @@ class FeatureEngineering(luigi.Task):
 		Y = model_features.int_rate
 		model_features.drop('int_rate', axis=1, inplace=True)
 		user_entered_cols = ['loan_amnt', 'term', 'emp_length', 'home_ownership', 'annual_inc',
-                                'verification_status', 'purpose', 'addr_state', 'dti', 'delinq_2yrs',
+                                'verification_status', 'purpose', 'dti', 'delinq_2yrs',
                                 'Risk_Score', 'inq_last_6mths', 'open_acc', 'revol_bal', 'revol_util', 'total_acc',
                                 'mths_since_last_major_derog', 'funded_amnt_inv', 'installment', 'application_type', 'pub_rec',
                                 'addr_state']
