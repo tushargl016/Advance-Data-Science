@@ -42,6 +42,7 @@
     if given it assigns it to a cluster and runs it on 3 different prediction algorithms and gives the highest interest rate
     
 # Results: 100% Accuracy for Classification, 0.02 MAE for Prediction of interest rates
+All the other results are present in the csv file Algorithmresults.csv
 
     
     
