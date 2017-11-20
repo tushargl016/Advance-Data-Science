@@ -20,7 +20,7 @@
   In the Folder Part1 the filename SummaryMetricsAssignment2.ipynb has all the summary metrics along with the desription of what they signify
   
 ## Part2 
-  ##Note: All the sample code for running individual REST API's is present in directory Part2/RestAPI/
+  #### Note: All the sample code for running individual REST API's is present in directory Part2/RestAPI/
   
   1. Create a classification model,compute best  and deploy it on azure
     The Classification model code for jupyter is in the Part2 folder in Classification.ipynb
@@ -38,7 +38,7 @@
   4. Deploy the models
     In Folder Part2 we have a script DeploymentScript_assignment2.ipynb which creates the whole pipeline
     first it decides whether to give a loan or not
-## Note: In the question we were not told to deploy the clustering model so there is a kmeancluster.pkl that you need to download from the Part2 folder to run the deployment script
+#### Note: In the question we were not told to deploy the clustering model so there is a kmeancluster.pkl that you need to download from the Part2 folder to run the deployment script
     if given it assigns it to a cluster and runs it on 3 different prediction algorithms and gives the highest interest rate
     
 # Results: 100% Accuracy for Classification, 0.02 MAE for Prediction of interest rates
