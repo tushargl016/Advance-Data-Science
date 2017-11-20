@@ -40,7 +40,7 @@
     first it decides whether to give a loan or not
     if given it assigns it to a cluster and runs it on 3 different prediction algorithms and gives the highest interest rate
     
-#Results: 100% Accuracy for Classification, 0.02 MAE for Prediction of interest rates
+# Results: 100% Accuracy for Classification, 0.02 MAE for Prediction of interest rates
 
     
     
