@@ -38,6 +38,7 @@
   4. Deploy the models
     In Folder Part2 we have a script DeploymentScript_assignment2.ipynb which creates the whole pipeline
     first it decides whether to give a loan or not
+    ## Note: In the question we were not told to deploy the clustering model so there is a kmeancluster.pkl that you need to download from the Part2 folder to run the deployment script
     if given it assigns it to a cluster and runs it on 3 different prediction algorithms and gives the highest interest rate
     
 # Results: 100% Accuracy for Classification, 0.02 MAE for Prediction of interest rates
