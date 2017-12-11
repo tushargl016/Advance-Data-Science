@@ -6,7 +6,7 @@ python instacartluigi.py uploadziptos3 --local-scheduler --akey "your access key
 
 ### For ease of user we have also Dockerized the whole luigi pipeline you can run it using the following commands
 
-docker pull tushargl016/luigiinstacartpipeline
-docker run -e akey=awsaccesskey -e skey=awssecretkey  -ti tushargl016/luigiinstacartpipeline
+####  docker pull tushargl016/luigiinstacartpipeline
+####  docker run -e akey=awsaccesskey -e skey=awssecretkey  -ti tushargl016/luigiinstacartpipeline
 
 ### Note: Make sure you provide your AWS access key and secret access key or the job will fail because the data will be uploaded to your se bucket
