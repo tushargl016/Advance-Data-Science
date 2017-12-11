@@ -4,4 +4,4 @@
 
 python instacartluigi.py uploadziptos3 --local-scheduler --akey "your access key" --skey "your secret access key"
 
-### Note: Make sure you provide your access key and secret access key or the job will fail
+### Note: Make sure you provide your AWS access key and secret access key or the job will fail because the data will be uploaded to your se bucket
