@@ -10,6 +10,6 @@ using the Lending Club Dataset
 
 4. Midterm Assignment - Datapipeline and use Geospatial Analysis in Python  using Zillow Dataset
 
-5.Twitter Sentiment Analysis - Real Time Streaming using Kafka and Sentiment Analysis
+5. Twitter Sentiment Analysis - Real Time Streaming using Kafka and Sentiment Analysis
 
 Repective code and further instructions are present in each folder respectively
