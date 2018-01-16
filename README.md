@@ -8,8 +8,8 @@ using the Lending Club Dataset
 
 3. Instacart Recommendation Systems - Deployed Web Application, Data Pipeline, Dockerization using Instacart Dataset
 
-4. Midterm Assignment - Datapipeline and use Geospatial Analysis in Python  using Zillow Dataset
+4. Midterm Assignment - Datapipeline and use of Geospatial Analysis in Python  using Zillow Dataset
 
-5. Twitter Sentiment Analysis - Real Time Streaming using Kafka and Sentiment Analysis
+5. Twitter Sentiment Analysis - Real Time Streaming using Kafka and Sentiment Analysis using Twitter
 
 Repective code and further instructions are present in each folder respectively
