@@ -1,5 +1,5 @@
 # Final-Project for INFO 7390-Advanced Data Science
-#### Project Name - Instacart Market Basket Analysis
+#### Project Name - Instacart Recommendation Systems
 #### Link to Video Proposal - https://www.youtube.com/watch?v=mqcd3F2N5Io&feature=youtu.be
 #### Dataset Name and Link - 
 https://www.instacart.com/datasets/grocery-shopping-2017 (This is the original source provided by instacart and we used this in our luigi pipeline)
